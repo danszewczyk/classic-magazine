@@ -1,0 +1,31 @@
+.features {
+	margin-top:25px;
+	width:$container-width;
+	height: 400px;
+
+	.feature{
+
+		position:relative;
+		width:100%;
+
+		.feature-overlay {
+			position:absolute;
+			top:20px;
+			left:20px;
+			width:100%;
+		}
+
+	}
+
+	.primary {
+		float:left;
+		width: 600px;
+	}
+
+	.secondary {
+		float:right;
+		width:300px;
+		height: 200px;
+	}
+
+}

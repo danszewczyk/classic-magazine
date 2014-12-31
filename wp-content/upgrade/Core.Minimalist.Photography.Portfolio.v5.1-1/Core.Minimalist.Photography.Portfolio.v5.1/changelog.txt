@@ -1,0 +1,177 @@
+----------------------------------------------------------------------------
+   Release notes for theme
+----------------------------------------------------------------------------
+
+   Theme Name: Core
+
+   Version: 5.1
+
+   by Peerapong
+   http://themeforest.net/user/peerapong
+
+
+----------------------------------------------------------------------------
+  Change log
+----------------------------------------------------------------------------
+
+= V1.0 - 11.05.2011 =
+* Initial Release 
+
+= V1.1 - 01.06.2011 =
+* Add image flow portfolio style
+
+= V1.2 - 02.06.2011 =
+* Fix upload issue on some browsers randomly (browser cache)
+
+= V1.3 - 23.06.2011 =
+* Fix uploaded file randomly delete in some server setting
+
+= V1.4 - 10.07.2011 =
+* Update nivoslide shortcode not working, update support Wordpress 3.2
+
+= V1.5 - 19.07.2011 =
+* Add password protected gallery option.
+
+= V1.6 - 22.07.2011 =
+* Fix menu font size slider is not working.
+
+= V1.7 - 09.08.2011 =
+* Add option to enable/disable full blog post content in blog page.
+
+= V1.8 - 11.08.2011 =
+* Update to the latest version of timthumb.
+
+= V2.0 - 22.08.2011 =
+* Add video portfolio content.
+* Add option to enable/disable gallery image title
+
+= V2.1 - 05.09.2011 =
+* Add drag&drop reorder images in gallery feature
+* Add option to enable/disable fullscreen slideshow button
+
+= V2.2 - 13.09.2011 =
+* Add video background homepage style.
+* Add disable right click for image protection.
+* Add page font size option.
+
+= V2.3 - 05.10.2011 =
+* Fix video portfolio sorting issue from last update.
+
+= V2.4 - 10.10.2011 =
+* Add translation ready with po, mo files
+* Add social media profiles module for top right content
+
+= V2.5 - 01.11.2011 =
+* Add option to enable/disable image reflection.
+* Remove youtube link back on fullscreen background video.
+
+= V3.0 - 02.12.2011 =
+* Add music support on homepage.
+* Add option to enable/disable flow scrollbar.
+* Fix video background no sound.
+
+= V3.1 - 08.02.2012 =
+* Revised theme documentation. Add more detailed instructions.
+
+= V3.2 - 15.02.2012 =
+* Support iPad and iPhone gesture for image gallery.
+* Fix paragraph spacing issue.
+* Make all social profile icons open in new tab.
+
+= V3.3 - 10.04.2012 =
+* Centered theme page layout.
+* Fix Twitter widget issue on some server setting.
+* Add multiple gallery styles support.
+* Add responsive design.
+* Add social media sharing on gallery page.
+* Update to new theme admin panel.
+* Fix Homepage Image Title Issue.
+* Update theme manual include new videos tutorials.
+
+= V3.3.1 - 13.04.2012 =
+* Fix page with sidebar issue.
+
+= V3.3.2 - 26.04.2012 =
+* Fix small image alignment issue.
+
+= V3.3.3 - 29.04.2012 =
+* Fix blog post content issue on mobile devices.
+
+= V3.4 - 07.05.2012 =
+* Add option to disable thumbnails in fullscreen mode
+* Add captcha for contact form for spam protection
+
+= V3.4.1 - 14.05.2012 =
+* Add Cyrillic characters support on Google Web Font
+
+= V3.4.2 - 16.05.2012 =
+* Fix duplicated contact page content when using jetpack plugin
+* Fix Youtube video background not working
+
+= V3.5 - 14.06.2012 =
+* Fix gallery upload issue in Wordpress 3.4
+* Fix contact form widget issue
+
+= V3.6 - 22.11.2012 =
+* Fix ft image distorted in category page
+* Fix comment avatar display issue
+
+= V3.7 - 12.12.2012 =
+* Fix issue in Wordpress 3.5
+* Improve gallery uploader user interface
+
+= V3.7.1 - 10.01.2013 =
+* Fix responsive image height issue
+
+= V4.0 - 16.01.2013 =
+* Add fullscreen gallery fix image cropping issue
+* Add ken burns gallery option for homepage gallery
+* Add gallery shortcode
+
+= V4.1 - 25.01.2013 =
+* Improve fullscreen thumbnails experience
+
+= V4.2 - 04.02.2013 =
+* Fix image title display issue on Wordpress 3.5
+* Fix comment author link issue
+
+= V4.3 - 10.02.2013 =
+* Add pinterest, instagram and linkedin to Social Profiles module
+
+= V4.4 - 15.02.2013 =
+* Fix image lightbox overlay background for white skin option
+* Add enable/disable option for auto hiding menu and footer on fullscreen gallery
+
+= V4.4.1 - 19.02.2013 =
+* Fix gallery short code conflict with default Wordpress
+
+= V4.4.2 - 28.02.2013 =
+* Add disable auto hide menu option for Kenburns gallery
+
+= V4.4.3 - 06.03.2013 =
+* Fix lightbox's image title colour display issue
+
+= V4.5 - 26.03.2013 =
+* Update theme admin security issue
+
+= V4.6 - 14.06.2013 =
+* Fix Twitter widget issue due to new Twitter API
+
+= V4.7 - 01.07.2013 =
+* Fix session error in password protected page
+* Remove Theme Store
+
+= V4.8 - 02.07.2013 =
+* Change to centred main menu layout
+* Fix logo size on mobile screen resolutions
+
+= V4.9 - 12.07.2013 =
+* Fix theme admin saving issue
+
+= V5.0 - 20.07.2013 =
+* Add image dragging protection
+* Add stretch main menu layout option
+* Fix wrong theme version number in WP admin
+
+= V5.1 * 02.08.2013 =
+* Fix main menu issue on Wordpress 3.6
