@@ -1,0 +1,104 @@
+@media only screen and (max-width: 1170px) {
+	.center, .footer  { width: 940px; } 
+	.widget.fblike h3.sidebar-title { padding: 0; font-size: 62px; }
+	.page-title  h1 { font-size: 75px; }
+	.page-title .page-subtitle { padding-top: 40px; font-size: 25px; }
+	.post-details-wrapper { padding: 50px 40px 20px; }	
+	.post-format-icon { right: 40px; }
+	.page-wrapper { padding: 40px; }
+	.post-showing-type1 .post-title a,  .post-showing-type1 .post-title a span, 
+	.post-showing-type1 .quote .quote-content,  .post-showing-type1 .quote .quote-content p,  .twitter-post-type p.tweet_text, .post-showing-type1 .post-title { font-size: 35px; }
+	.vc_col-sm-6 .post-details-wrapper { padding: 50px 50px 20px; }
+	.vc_col-sm-6  .post-format-icon { right: 50px; }
+	.vc_col-sm-6 .post-showing-type1 .post-title a, .vc_col-sm-6 .post-showing-type1 .post-title a span, 
+	.vc_col-sm-6  .post-showing-type1 .quote .quote-content, .vc_col-sm-6  .post-showing-type1 .quote .quote-content p, .vc_col-sm-6 .twitter-post-type p.tweet_text { font-size: 32px; }
+	.vc_col-sm-4 .post-details-wrapper, .vc_col-sm-8 .vc_col-sm-6 .post-details-wrapper { padding: 50px 20px 20px; }
+	.vc_col-sm-4 .post-format-icon, .vc_col-sm-8 .vc_col-sm-6  .post-format-icon { right: 20px; }
+	.vc_col-sm-4 .twitter-post-type, .vc_col-sm-4 .post-showing-type1 .quote, .vc_col-sm-8 .vc_col-sm-6 .twitter-post-type, .vc_col-sm-8 .vc_col-sm-6 .post-showing-type1 .quote  { padding: 30px 20px 50px; }
+	.vc_col-sm-4 .post-showing-type1 .post-title a, .vc_col-sm-4 .post-showing-type1 .post-title a span, .vc_col-sm-4  .post-showing-type1 .quote .quote-content, .vc_col-sm-4  .post-showing-type1 .quote .quote-content p, .vc_col-sm-8 .vc_col-sm-6 .post-showing-type1 .post-title a, .vc_col-sm-8 .vc_col-sm-6 .post-showing-type1 .post-title a span, .vc_col-sm-8 .vc_col-sm-6 .post-showing-type1 .quote .quote-content, .vc_col-sm-8 .vc_col-sm-6  .post-showing-type1 .quote .quote-content p { font-size: 20px; }
+	.vc_col-sm-4 .twitter-post-type p.tweet_text, .vc_col-sm-8 .vc_col-sm-6 .twitter-post-type p.tweet_text { font-size: 18px; }
+	.vc_col-sm-4  .quote-icon, .vc_col-sm-4  .twitter-post-type .twitter-icon, .vc_col-sm-8 .vc_col-sm-6  .quote-icon, .vc_col-sm-8 .vc_col-sm-6  .twitter-post-type .twitter-icon { font-size: 30px;  }
+	.vc_col-sm-4 .post-showing-type1 .quote .quote-content, .vc_col-sm-4  .twitter-content, 
+	.vc_col-sm-8 .vc_col-sm-6 .post-showing-type1 .quote .quote-content, .vc_col-sm-8 .vc_col-sm-6  .twitter-content { margin-left: 35px; margin-top: 0px; } 
+	.dialog__content { padding: 100px 50px; }
+	.aboutme-socials-wrapper { float: none; text-align: center; }
+	.aboutme-message-wrapper { float: none; text-align: center; margin: 10px 0 0 0; }
+	.about-image-wrap .about-medium { margin-left: -200px;  }
+	.about-image-wrap .about-small { margin-left: -180px; }
+	.wpb_gmaps_widget { margin: -40px -40px 35px -40px !important; }
+}
+
+@media only screen and (max-width: 959px) {
+	.center, .footer { width: 730px; }
+	.post-details-wrapper { padding: 50px 30px 20px; }	
+	.page-wrapper { padding: 30px; }
+	.sidebar .widget { padding: 30px; }
+	.page-title  h1 { font-size: 55px; }
+	.page-title .page-subtitle {padding-top: 30px; font-size: 20px; }
+	.page-template-template-posts-view .vc_col-sm-4.isotope-item { width: 49%; }
+	.search-wrap #searchform #s { font-size: 18px; }
+	.widget.fblike h3.sidebar-title { padding: 0; font-size: 52px; }
+	.widget.fblike h3.sidebar-title { margin-left: -30px; margin-right: -30px; }
+ 	.widget.fblike	.title-stripes-left { margin-left: -30px; margin-right: -30px; margin-bottom: -20px !important; }
+ 	.about-me-wrap, .about-name-wrap, .about-image-wrap .about-small, .about-image-wrap .about-medium, .about-image-wrap .about-big { text-align: center; margin: 0; float: none; height: auto; }
+ 	.wpb_gmaps_widget { margin: -30px -30px 35px -30px !important; }
+}
+
+@media only screen and (max-width: 767px) {
+	.header-wrapper.header2 .menu ul.sf-menu > li { margin: 0 15px; }
+	.center, .footer { width: 95%; margin: 0 auto; }
+	.sidebar { width: 100%; }
+	.sidebar .widget { padding: 40px; }
+	.main-menu.menu-header1 select { display: block; }	
+	.main-menu.menu-header2 select { display: block; }	
+    .menu-header1 .sf-menu,  .menu-header2 .sf-menu, .header-wrapper-both-menus .header-wrapper.header2.showme {  display: none !important; visibility: hidden;}
+    .header-wrapper.header2 .header-inner-wrapper { position: relative; top: 0 !important; }
+    .quote-icon, .twitter-post-type .twitter-icon { font-size: 50px;  }
+    .page-title h1 { width: 100%; }
+    .page-title .page-subtitle { padding: 0; margin: 0; font-size: 20px; }
+    .vc_col-sm-1, .vc_col-sm-2, .vc_col-sm-3, .vc_col-sm-4, .vc_col-sm-5,
+     .vc_col-sm-6 , .vc_col-sm-7, .vc_col-sm-8, .vc_col-sm-9, .vc_col-sm-10,
+    .vc_col-sm-11, .vc_col-sm-12 { width: 100% !important;  }
+    .vc_col-sm-3,  .vc_col-sm-6  {  }
+    .instag ul.thumbnails > li { width: 25% !important; }
+    .search-icon { font-size: 20px; padding: 3px 8px 2px; }
+    .post-details-wrapper { padding: 50px 40px 20px !important; }
+	.post-format-icon { right: 40px !important; } 
+	.twitter-post-type, .post-showing-type1 .quote {  padding: 30px 40px 50px !important;  } 
+	.post-showing-type1 .post-title a, .post-showing-type1 .post-title a span, .post-showing-type1 .quote .quote-content, .post-showing-type1 .quote .quote-content p, .post-showing-type1 .post-title-single, #comments h1, #respond h3 {  font-size: 32px !important; } 
+	.twitter-post-type p.tweet_text { font-size: 32px !important; } 
+	.quote-icon, .twitter-post-type .twitter-icon {  font-size: 90px !important; }
+	.post-showing-type1 .quote .quote-content,  .twitter-content {  margin-left: 100px !important;  margin-top: 20px !important; } 
+	.sidebar { margin-top: 30px; }
+}
+
+@media only screen and (max-width: 500px) {
+
+	.post-details-wrapper { padding: 50px 40px 20px !important; }
+	.post-format-icon { right: 40px !important; }
+	.twitter-post-type, .post-showing-type1 .quote { padding: 30px 40px 50px !important;}
+	.post-showing-type1 .post-title a, .post-showing-type1 .post-title a span, .post-showing-type1 .quote .quote-content, .post-showing-type1 .quote .quote-content p, .post-showing-type1 .post-title, .post-showing-type1 .post-title-single, #comments h1, #respond h3 { font-size: 25px !important; }
+	.twitter-post-type p.tweet_text { font-size: 25px !important; }
+	.quote-icon,  .twitter-post-type .twitter-icon {  font-size: 30px !important;   }
+	.post-showing-type1 .quote .quote-content,  .twitter-content { margin-left: 35px !important; margin-top: 0 !important;}
+	.page-title h1 { font-size: 45px; }
+	.dialog__content { width: 90%; }
+}
+	
+@media only screen and (max-width: 400px) {
+	 body, p, .post-showing-type2 .post-date, .top-rated-date, .top-commented-date  { font-size: 12px; }
+	 .post-showing-type1 .post_content .wpb_row:first-child .wpb_column:first-child .wpb_wrapper > div:first-child p:first-child, .blockquote.type1 p, 
+	 .vc_dropcap .dropcap.type1, .vc_dropcap .dropcap.type1 span, .latest-posts .post-showing-type2 .post-title a,
+	.latest-posts .post-showing-type2 .post-title a span, .top-rated-url, .top-commented-url, .widget ul li a { font-size: 14px; }
+	.post-details-wrapper {
+		padding: 50px 20px 20px !important;
+	}
+	.post-format-icon { right: 20px !important; }
+	.twitter-post-type, .post-showing-type1 .quote { padding: 30px 20px 50px !important;}
+	.post-showing-type1 .post-title a, .post-showing-type1 .post-title a span, .post-showing-type1 .quote .quote-content, .post-showing-type1 .quote .quote-content p, .post-showing-type1 .post-title { font-size: 20px !important; }
+	.twitter-post-type p.tweet_text { font-size: 20px !important; }
+	.quote-icon,  .twitter-post-type .twitter-icon { font-size: 14px !important;  }
+	.post-showing-type1 .quote .quote-content, .twitter-content { margin-left: 15px !important; margin-top: -5px !important; }
+	.instag ul.thumbnails > li { width: 50% !important; }
+	.dialog__content { padding: 50px 20px; }
+}
