@@ -2,6 +2,9 @@
 		<?php pego_get_prev_next_link(); ?>
 		<div id="container"> <!-- start container -->	
 			<div class="vc_row wpb_row vc_inner vc_row-fluid">
+				<div class="vc_col-sm-2 wpb_column vc_column_container">
+					
+				</div>
 				<div class="vc_col-sm-8 wpb_column vc_column_container">
 					<div class="wpb_wrapper">
 			<?php while ( have_posts() ) : the_post();  ?>					
@@ -234,7 +237,12 @@
 				 ?>	
 				</div>
 				</div>
-				<div class="vc_col-sm-4 wpb_column vc_column_container">
+				
+				<div class="vc_col-sm-2 wpb_column vc_column_container">
+					
+				</div>
+
+				<!-- <div class="vc_col-sm-4 wpb_column vc_column_container">
 					<div class="wpb_wrapper sidebar sidebar-right">
 			
 				<?php
@@ -244,7 +252,7 @@
 						<?php endif; 
 					?>	
 				</div>	
-				</div>
+				</div> -->
 				</div>
 		</div><!-- end container -->	
 <?php get_footer(); ?>
